@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F115F7&width=435&lines=---------------%3E%7CzGenny%7C%3C----------------)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F115F7&width=435&lines=---------------%3E%7CzGenny%7C%3C---------------)](https://git.io/typing-svg)
 
 <!--
 **zGenny/zGenny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
