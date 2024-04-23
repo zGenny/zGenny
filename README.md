@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I am a Computer Science student at Federico II in [Napoli](https://www.youtube.com/watch?v=U-xsosv6uM0) with a strong interest in learning and exploring different technologies and fields. My academic background and my curiosity drive me to delve into various areas such as web development, bot deployment, automation, and more, always looking to integrate new skills and ideas into my projects.
 
-![](https://media1.tenor.com/m/fFSln2_V98IAAAAC/shioshishio-muscle-sunglasses.gif)]
+![](https://media1.tenor.com/m/fFSln2_V98IAAAAC/shioshishio-muscle-sunglasses.gif)
 
 ## 🛠 Technologies and Tools
 
